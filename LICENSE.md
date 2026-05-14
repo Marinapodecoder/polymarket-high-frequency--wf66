@@ -1,4 +1,4 @@
-# 
+# smart Polymarket Module | arbitrage-detection + trade-sniping is the best Polymarket module, featuring arbitrage-detection and trade-sniping. Smart, fast, and optimized for
 
 
 
